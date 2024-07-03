@@ -4,10 +4,13 @@
 
 🌱 I’m currently learning frontend development.
 
+💼 I’m working as an Automation Developer.
+
 💞️ I’m looking to collaborate on web development and AI projects.
 
-📫 How to reach me: Mail to team.ravitejareddy@gmail.com.
+📫 How to reach me: Mail to mail.ravitejareddy@gmail.com.
 
 😄 Pronouns: he/him
 
 ⚡ Fun fact: I'm very patient and eager to learn new things.
+
