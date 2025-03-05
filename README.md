@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning frontend development.
 
-💼 I’m working as an Automation Engineer.
+💼 I’m working as an Software Engineer.
 
 💞️ I’m looking to collaborate on web development and AI projects.
 
